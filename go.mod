@@ -1,4 +1,4 @@
-module github.com/chartmuseum/helm-push
+module github.com/zze326/helm-acr
 
 go 1.13
 
